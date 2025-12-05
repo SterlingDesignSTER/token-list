@@ -185220,23 +185220,19 @@ UFSrx1C/logo.png",
       "logoURI": "https://raw.githubusercontent.com/jeffreydrew/pandacoin/main/pandafinal.png",
       "tags": [
         "social-token"
-         ]
-    }
-  ],
-  {
+     ]
+    },
+    {
   "chainId": 101,
   "address": "ByzUhVTPHNqy7ZSKtTMq6v5Y4jG91FUmF18NTSeLCK7E",
   "symbol": "STER",
   "name": "Sterling Design Token",
   "decimals": 6,
   "logoURI": "https://sterlingdesign.us/sitepad-data/uploads/2025/11/transparent.png",
-  "tags": ["community", "social-token"],
-  "extensions": {
-    "website": "https://sterlingdesign.us/crypto",
-    "twitter": "https://x.com/SDesignSTER"
-  }
-}
-],
+  "tags": ["community", "social-token"]
+    }
+  ],
+
 "version": {
   "major": 0,
   "minor": 3,
